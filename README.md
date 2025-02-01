@@ -1,4 +1,4 @@
-# 2025-IonQ
+# 2025-IonQ-Attempt
 
 Problem discription: [IonQuHack2025_mosh-pit_max-cut.pdf](IonQuHack2025_mosh-pit_max-cut.pdf)
 
